@@ -1,0 +1,10 @@
+zig-out/
+.zig-cache/
+
+backup.txt
+
+teamPack/node_modules/
+
+.direnv/
+
+userscript/node_modules/
